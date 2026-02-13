@@ -52,7 +52,7 @@ This Kanban-style structure allows agencies to visually track client progress an
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.png.png)
 
 ## Future Improvements
 
